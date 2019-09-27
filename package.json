@@ -1,0 +1,23 @@
+{
+  "name": "azuredevopsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackSunlightMeetups/azuredevopsdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackSunlightMeetups/azuredevopsdemo/issues"
+  },
+  "homepage": "https://github.com/BlackSunlightMeetups/azuredevopsdemo#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
